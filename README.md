@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+1) Overview --
+   
+   $] created a simple app using NextJs named heawea(health-wealth)
+   
+   $] which been using all apis mentioned in assignmnet
+   
+   $] and on top added simple open ai chat which create diet plan for you, using your information like age, gender and natinality
 
-## Getting Started
+   
+3) Techno used --
+   
+   $] NextJs
+   
+   $] OpenAI
+   
+   $] TypeScript
 
-First, run the development server:
+   
+5) Testing --
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+   $] Take a pull on local run npm run dev
+   
+   $] Add seceret open api ket in .env as OPEN_API_KEY
+   
+   $] Need account in openAI for that
+   
+   $] have fun with app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   
+8) Sample images --
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="1425" alt="Screenshot 2024-03-09 at 4 01 52 PM" src="https://github.com/KasarKalyani/heawea/assets/86671511/5e340a9a-2366-4946-96a1-47c3160c69de">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img width="1425" alt="Screenshot 2024-03-09 at 3 14 33 PM" src="https://github.com/KasarKalyani/heawea/assets/86671511/ccb34fe9-d43c-4eda-9ac8-3eb1bb346d69">
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+9) Future Scope --
+   We can make AI module more structured. We can train AI module to answer question only regarding diet plans, health, food suggestions, etc, etc.
+   
